@@ -1,0 +1,8 @@
+target/
+*.class
+journal.log
+releve_*.txt
+*.iml
+.idea/
+.vscode/
+*.log
